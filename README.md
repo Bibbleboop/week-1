@@ -6,6 +6,7 @@ Daily should be ensuring on main (git checkout main) and (git pull) to update cl
   Then change to my Bibbleboop branch before working on activities and using starter code in my work folders
 Solutions for daily activiies are provided in the git pull the following day
 
+When using links, for example for style.css or image links should use relative file paths. Absoloute file paths are no good as your C: is not in web
 
 
 I 

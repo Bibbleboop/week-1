@@ -9,4 +9,5 @@ Solutions for daily activiies are provided in the git pull the following day
 When using links, for example for style.css or image links should use relative file paths. Absoloute file paths are no good as your C: is not in web
 
 
-I 
+Do not add additional folders in starter code download as this casues issues when trying to move them afterwards ie Assets folder for Challenge 1 and other readme and challenge guides. 
+
